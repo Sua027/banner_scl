@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.margen{
+    width: 75em;
+    height: 37.5em;
+    margin: auto;
+}
+.banner img {
+    margin-top: 6em;
+    width: 75em;
+    height: 37.5em;
+    position: absolute;
+}
+.caja_texto{
+    width: 33.1em;
+    height: 9em;
+    margin-left: 5em;
+    margin-top: 20em;
+    float: left;
+    position: relative;
+}
+.caja_texto>p{
+    display: block;
+    font-family: Segoe UI;
+    color: #1B1B1B;
+    text-shadow: -0.09em 0.06em 0.1em #807D7D;
+}
+.diseno{
+    font-size: 4em;
+    display: block;
+    float: left;
+    height: 1em;
+}
+.pensamiento{
+    font-size: 2em;
+    display: block;
+    float: left;
+    height: 1.2em;
+    margin-top: 1em;
+    margin-left: 0.2em;
+}
+.hecho{
+    font-size: 2em;
+    display: block;
+    float: left;
+    margin-left: 4em;
+}
+.visual{
+    font-size: 4em;
+    display: block;
+    float: left;
+    margin-left: 0.2em;
+}
