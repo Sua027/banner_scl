@@ -1,6 +1,6 @@
 *{
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 .margen{
     width: 75em;
@@ -8,7 +8,7 @@
     margin: auto;
 }
 .banner img {
-    margin-top: 6em;
+    margin-top: 1em;
     width: 75em;
     height: 37.5em;
     position: absolute;
